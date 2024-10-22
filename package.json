@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ALLWAYSYASHWANTH/ReactComponentLibrary.git"
+        "url": "git+https://github.com/ALLWAYSYASHWANTH/react-component-library.git"
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com"
